@@ -12,7 +12,6 @@ cv2.createTrackbar('lower_H','image',0,255,nothing)
 cv2.createTrackbar('lower_S','image',0,255,nothing)
 cv2.createTrackbar('lower_V','image',0,255,nothing)
 cv2.createTrackbar('higher_H','image',0,255,nothing)
-cv2.createTrackbar('higher_H','image',0,255,nothing)
 cv2.createTrackbar('higher_S','image',0,255,nothing)
 cv2.createTrackbar('higher_V','image',0,255,nothing)
 
